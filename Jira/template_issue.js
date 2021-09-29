@@ -29,7 +29,7 @@ var template_issue = [
   },
   {
     style: "p",
-    text: "As a (who wants to accomplish something)\nI want to (what they want to accomplish)\nSo that (why they want to accomplish that thing)",
+    text: "",
   },
   {
     style: "hr",
