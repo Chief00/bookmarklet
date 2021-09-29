@@ -1,10 +1,10 @@
 # Welcome to Josh's Bookmarklets
 
 ## Contents
-* [Bookmarklets](#Bookmarklets)
-* [Jira](#Jira)
-* [OneView](#OneView)
-* [P2](#P2)
+* [Bookmarklets](#bookmarklets)
+* [Jira](#jira)
+* [OneView](#oneview)
+* [P2](#p2)
 
 ## Bookmarklets
 A bookmarklet is a bookmark stored in a web browser that contains JavaScript commands that add new features to the browser. All my bookmarklets are auto updating, so you will always have the latest version.
