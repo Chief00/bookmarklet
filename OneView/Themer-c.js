@@ -1,0 +1,1 @@
+javascript:(function()%7Bvar%20u%20%3D%20document.URL.split(%22%2F%22)%3Bu.pop()%3Bvar%20dt%20%3D%20new%20Date()%3Bu.push(%60%3Faction%3Dtheme%26from%3D1970-05-01T00%3A00%3A00.000Z%26to%3D%24%7Bdt.getYear()%2B1901%7D-07-13T00%3A00%3A00.000Z%60)%3Bwindow.location.href%20%3D%20u.join(%22%2F%22)%7D)()
